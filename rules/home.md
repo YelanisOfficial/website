@@ -278,6 +278,7 @@ This applies to any crime action that would trigger a large police response or a
 ### Pocket Wiping
 - Only take relevant or valuable items.  
 - Looting for profit or clearing inventories is bannable.
+- Ninja Looting (Looting of players, vehicles or stashes without any level of interaction or roleplay)
 
 ## Vehicle and Pursuit Rules 
 - No off-road abuse or mountain climbing in street cars.  
